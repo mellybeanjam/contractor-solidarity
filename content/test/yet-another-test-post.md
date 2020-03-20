@@ -3,7 +3,7 @@ draft = false
 date = "2019-09-16T12:33:32+02:00"
 publishdate = "2019-09-16T12:33:32+02:00"
 
-title = "Yet another test post"
+title = "Yet another test posts"
 
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, mauris sed tincidunt dignissim, enim justo suscipit dui, vitae pharetra justo nulla at neque. Ut eu nulla in nisi dapibus efficitur. Donec sollicitudin ac arcu ac malesuada. Cras sapien orci, malesuada id ultrices ac, sodales sed est."
 
